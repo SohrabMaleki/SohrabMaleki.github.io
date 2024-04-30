@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Sohrab Maleki"
   avatar           : "profile.png"
-  bio              : ">>Physics Student at SUT\n>> November 21, 2004, Tehran, Iran"
+  bio              : |
+    >>Undergraduated Physics Student at SUT
+    >>November 21, 2004, Tehran, Iran
   location         : "Tehran"
   employer         :
   pubmed           : 
