@@ -1,7 +1,7 @@
 ---
 title: 'Linear Algebra Notes'
 date: 2024-05-01
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/LinAlg/
 tags:
   - Mathematics
   - LinAlg
@@ -15,4 +15,5 @@ Reference: Principles of Quantum Mechanics, Shankar
 
 
 <u>Still working on...</u>
+
 [Download PDF](http://sohrabmaleki.github.io/files/ElectromagneticDipoles.pdf)
