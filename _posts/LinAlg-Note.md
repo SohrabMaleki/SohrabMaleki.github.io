@@ -8,12 +8,3 @@ tags:
   - category2
 ---
 Abstract:
----
-This note is on <i>"Linear Algebra"</i> needed in the study of <i>Quantum Mechanics</i>.
-
-Reference: Principles of Quantum Mechanics, Shankar
-
-
-<u>Still working on...</u>
-
-[Download PDF](http://sohrabmaleki.github.io/files/ElectromagneticDipoles.pdf)
