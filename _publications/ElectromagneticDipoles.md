@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/ElectromagneticDipoles
 excerpt: 'This paper is about the electromagnetic dipoles and an inconsistency'
 date: 2024-01-29
+venue: "Personal Webpage"
 paperurl: 'http://sohrabmaleki.github.io/files/ElectromagneticDipoles.pdf'
 citation: 'Sohrab Maleki (2024)'
 ---
