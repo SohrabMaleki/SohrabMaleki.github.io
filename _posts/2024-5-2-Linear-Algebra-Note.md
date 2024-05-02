@@ -1,7 +1,7 @@
 ---
 title: 'Linear Algebra (for Quantum Mechanics)'
 date: 2024-05-2
-permalink: /posts/LinAlg/
+permalink: /notes/LinAlg/
 tags:
   - Quantum Mechanics
   - Mathematics
