@@ -6,7 +6,7 @@ tags:
   - Classical Physics
   - Mathematics
   - Electromagnetism
-
+---
 Overview:
 ----
 This paper discusses Electromagnetic dipoles and their unique traits.

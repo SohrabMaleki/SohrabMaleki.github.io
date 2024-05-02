@@ -7,8 +7,7 @@ tags:
   - Mathematics
   - Note
 ---
-
-Abstract:
+Overview:
 ---
 This note is what I have learned on <i>"Linear Algebra"</i> structure in the study of <i>Quantum Mechanics</i>.
 
