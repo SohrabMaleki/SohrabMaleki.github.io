@@ -8,13 +8,13 @@ tags:
   - category2
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+Abstract:
+---
+This note is on <i>"Linear Algebra"</i> needed in the study of <i>Quantum Mechanics</i>.
 
-Headings are cool
-======
+Reference: Principles of Quantum Mechanics, Shankar
 
-You can have many headings
-======
 
-Aren't headings cool?
-------
+<u>Still working on...</u>
+
+[Download PDF](http://sohrabmaleki.github.io/files/ElectromagneticDipoles.pdf)
