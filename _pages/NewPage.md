@@ -1,5 +1,5 @@
 ---
-layout: splash  # This uses the 'archive' layout from your `_layouts` directory.
+layout: archive
 title: "My Notes Archive"  # Title of the page
 permalink: /notes-archive/  # URL where this page will be accessible
 ---
