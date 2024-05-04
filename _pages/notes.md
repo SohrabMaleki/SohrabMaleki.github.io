@@ -7,6 +7,9 @@ permalink: /notes-archive/
 
 Welcome to my archive of notes. Here, I explore various topics that pique my curiosity, write detailed lecture notes about what I've found fascinating, and share insights from my academic journey. Feel free to delve into these explorations and join me on this journey of discovery and understanding.
 
+**WIP**: Work In Progress
+{: .notice}
+
 ## Lecture Notes
 
 Here, you can find my lecture notes on topics I've learned and decided to write down my understandings.
