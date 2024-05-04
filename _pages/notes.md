@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "My Notes"  # Title of the page
-permalink: /notes-archive/  # URL where this page will be accessible
+title: "My Notes"
+permalink: /notes-archive/
 ---
 
 
@@ -11,7 +11,7 @@ Welcome to my archive of notes. Here, I explore various topics that pique my cur
 
 Here, you can find my lecture notes on topics I've learned and decided to write down my understandings.
 
-* [Here](https://sohrabmaleki.github.io/notes/LinAlg/) you can find my lecture note on <i>Linear Algebra</i> structure used in the study of <i>Quantum Mechanics</i>. (<u>WIP</u>)
+* [`Here`](https://sohrabmaleki.github.io/notes/LinAlg/) you can find my lecture note on <i>Linear Algebra</i> structure used in the study of <i>Quantum Mechanics</i>. **WIP**
 
 ## My Insights
 
