@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* *Atomic Energy High-school of Iran*, Diploma of Mathematics & Physics, <i>2020-2023</i>
+* *Atomic Energy High-school of Iran*, Diploma of Mathematics & Physics, <i>2020-2023</i> <i>GPA: 18.96/20</i>
 * *Sharif University of Technology*, B.S. in Physics, <i>2023 - 2027 (expected)</i>
 
 Work experience
