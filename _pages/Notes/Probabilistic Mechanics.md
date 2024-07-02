@@ -10,12 +10,12 @@ This paper discusses the evolution of probability distribution of a mechanical s
 
 But, have you thought about "What if the initial condition is not deterministic --i.e probability distribution"? This paper delves into this problem, find the equation of motion for the <i>"probability distribution"</i>.
 
-[Download Paper](http://sohrabmaleki.github.io/files/ElectromagneticDipoles.pdf)
+[Download Paper](http://sohrabmaleki.github.io/files/ProbClassicalMech.pdf)
 ----
 
 The equation of motion for a one-dimensional particle is derived through this paper as
 
-$$-\frac{\partial f}{\partial t}=\frac{y}{m}\frac{\partial f}{\partial x}+F(x)\frac{\partial f}{\partial y}$$
+$$\frac{\partial f}{\partial t} = \sum_{i=1}^{3N} -\frac{\partial f}{\partial q_i} \frac{\partial\mathcal{H}}{\partial p_i} + \frac{\partial f}{\partial p_i} \frac{\partial\mathcal{H}}{\partial q_i}$$
 
 where $y$ is momentum and $x$ is position. This equation, as explained in paper, reduces to 
 
@@ -35,7 +35,19 @@ Harmonic Oscillator
 ----
 
 Harmonic oscillator with momentum error much less than position error ($\sigma_p<<\sigma_x$):
-<video width="640" height="480" controls>
+<video width="640" height="360" controls>
   <source src="../../files/Harmonic.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+Harmonic oscillator stationary distribution (verifying the derived solution from paper):
+<video width="640" height="360" controls>
+  <source src="../../files/Harmonic - Stationary.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+Free particle:
+<video width="640" height="360" controls>
+  <source src="../../files/Free Particle.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
