@@ -21,7 +21,7 @@ This equation, as explained in paper, reduces for a one-dimensional particle to:
 
 $$-\frac{\partial f}{\partial t}=\frac{y}{m}\frac{\partial f}{\partial x}+F(x)\frac{\partial f}{\partial y}$$
 
-where $y$ is momentum and $x$ is position. 
+where $y$ is momentum, $x$ is position and $F(x)=-\partial U/\partial x$ is the force field. 
 
 Stationary distributions must satisfy 
 
