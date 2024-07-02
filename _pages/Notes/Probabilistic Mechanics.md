@@ -6,9 +6,9 @@ permalink: /notes/ProbMech/
 
 ## Description
 
-This paper discusses the evolution of probability distribution of a mechanical system. If you have studied classical mechanics, you probably know that if we specify initial conditions (initial position and velocity), solving the Hamilton's equations we obtain a unique and deterministic solution for state of the system in desired moment <i>t</i>.
+In this paper, I dive into the evolution of the probability distribution of a mechanical system. If you've studied classical mechanics, you probably know that once we nail down the initial conditions (like position and velocity), we can solve Hamilton's equations to get a clear, deterministic picture of the system at any future time $t$.
 
-But, have you thought about "What if the initial condition is not deterministic --i.e probability distribution"? This paper delves into this problem, find the equation of motion for the <i>"probability distribution"</i>.
+But here's a twist: what if those initial conditions aren't set in stone? What if we're dealing with a <i>probability distribution</i> instead? This paper tackles that intriguing question and works out the <i>equation of motion</i> for the probability distribution itself. It's a pretty cool way to think about mechanics beyond the usual deterministic approach!
 
 ## [Download Paper in English](http://sohrabmaleki.github.io/files/ProbClassicalMech-Eng.pdf)
 ## [Download Paper in Persian](http://sohrabmaleki.github.io/files/ProbClassicalMech-Fa.pdf)
