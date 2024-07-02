@@ -56,7 +56,7 @@ Free particle with gaussian initial distribution around zero (for position and m
   Your browser does not support the video tag.
 </video>
 
-### Cosine Potential
+### Periodic Potential
 
 Particle with gaussian initial distribution arounnd zero (for position and momentum) in a periodic potential $U(x)=\cos(x)$:
 <video width="640" height="360" controls>
