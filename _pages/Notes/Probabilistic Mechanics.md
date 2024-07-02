@@ -13,7 +13,7 @@ But, have you thought about "What if the initial condition is not deterministic 
 ## [Download Paper in English](http://sohrabmaleki.github.io/files/ProbClassicalMech-Eng.pdf)
 ## [Download Paper in Persian](http://sohrabmaleki.github.io/files/ProbClassicalMech-Fa.pdf)
 
-
+## Results
 The equation of motion for a general mechanical system is derived through this paper as
 
 $$\frac{\partial f}{\partial t} = \sum_{i=1}^{3N} -\frac{\partial f}{\partial q_i} \frac{\partial\mathcal{H}}{\partial p_i} + \frac{\partial f}{\partial p_i} \frac{\partial\mathcal{H}}{\partial q_i}$$
