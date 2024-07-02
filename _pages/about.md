@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-## Welcome to Sohrab's Corner
+## Welcome to Sohrab's Personal Webpage
 
 Hello and welcome to my personal webpage! I'm Sohrab, and I'm thrilled to have you here. This space is a reflection of my journey and passions, particularly in the fascinating world of physics.
+
+## What You'll Find Here:
 
 ### Publications and Ideas
 
