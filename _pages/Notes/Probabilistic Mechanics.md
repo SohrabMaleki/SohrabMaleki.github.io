@@ -31,8 +31,7 @@ which is highly similar to Boltzmann's distribution.
 
 There are some numerical solutions to the given equations evaluated using Python.
 
-Harmonic Oscillator
-----
+### Harmonic Oscillator
 
 Harmonic oscillator with momentum error much less than position error ($\sigma_p<<\sigma_x$):
 <video width="640" height="360" controls>
@@ -46,8 +45,18 @@ Harmonic oscillator stationary distribution (verifying the derived solution from
   Your browser does not support the video tag.
 </video>
 
-Free particle:
+### Free particle
+
+Free particle with gaussian initial distribution around zero (for position and momentum)
 <video width="640" height="360" controls>
   <source src="../../files/Free Particle.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### Cosine Potential
+
+Particle with gaussian initial distribution arounnd zero (for position and momentum) in a periodic potential $U(x)=\cos(x)$:
+<video width="640" height="360" controls>
+  <source src="../../files/Cosine.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
