@@ -23,3 +23,5 @@ Here, you can find my lecture notes on topics I've learned and decided to write 
 Here, you will find my notes on various topics within <i>Physics</i> that have documented my personal journey through areas I've found fascinating, confusing, or particularly worthy of exploration. These notes often originate from novel ideas about viewing equations from a different perspective or from confusion that piqued my interest during a course I took.
 
 * [Here](https://sohrabmaleki.github.io/notes/EMdipoles/) you can find my discussion on <i>"Analyzing Discreet Differences: Understanding the Unique Traits of Magnetic and Electric Dipoles"</i> and my analogy to resolve a contradiction.
+
+* [Here](https://sohrabmaleki.github.io/notes/ProbMech/) you can find my discussion on <i>"Probabilistic Classical Mechanics"</i> and my approach to undeterministic initial condition for a classical system.
