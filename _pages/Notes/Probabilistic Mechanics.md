@@ -10,8 +10,9 @@ This paper discusses the evolution of probability distribution of a mechanical s
 
 But, have you thought about "What if the initial condition is not deterministic --i.e probability distribution"? This paper delves into this problem, find the equation of motion for the <i>"probability distribution"</i>.
 
-[Download Paper](http://sohrabmaleki.github.io/files/ProbClassicalMech.pdf)
-----
+## [Download Paper in English](http://sohrabmaleki.github.io/files/ProbClassicalMech-Eng.pdf)
+## [Download Paper in Persian](http://sohrabmaleki.github.io/files/ProbClassicalMech-Fa.pdf)
+
 
 The equation of motion for a general mechanical system is derived through this paper as
 
