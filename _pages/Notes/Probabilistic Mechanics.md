@@ -13,13 +13,15 @@ But, have you thought about "What if the initial condition is not deterministic 
 [Download Paper](http://sohrabmaleki.github.io/files/ProbClassicalMech.pdf)
 ----
 
-The equation of motion for a one-dimensional particle is derived through this paper as
+The equation of motion for a general mechanical system is derived through this paper as
 
 $$\frac{\partial f}{\partial t} = \sum_{i=1}^{3N} -\frac{\partial f}{\partial q_i} \frac{\partial\mathcal{H}}{\partial p_i} + \frac{\partial f}{\partial p_i} \frac{\partial\mathcal{H}}{\partial q_i}$$
 
-where $y$ is momentum and $x$ is position. This equation, as explained in paper, reduces to 
+This equation, as explained in paper, reduces for a one-dimensional particle to: 
 
 $$-\frac{\partial f}{\partial t}=\frac{y}{m}\frac{\partial f}{\partial x}+F(x)\frac{\partial f}{\partial y}$$
+
+where $y$ is momentum and $x$ is position. 
 
 Stationary distributions must satisfy 
 
