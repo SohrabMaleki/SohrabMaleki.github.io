@@ -17,6 +17,7 @@ Education
 Work experience
 ======
 * Summer 2022 - present: Physics Olympiad tutor in various high-schools of Tehran.
+* Spring 2024 - present: Lead Editor in <a href="https://physics.sharif.edu/~takaneh/"><i>"Takaneh"</i></a> physics magazine at the physics department of Sharif University of Technology.
   
 Skills
 ======
