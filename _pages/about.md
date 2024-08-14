@@ -6,6 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+keywords: "sohrab, maleki, sohrab maleki, physics"
+author: "Sohrab Maleki"
 ---
 
 ## Welcome to Sohrab's Personal Webpage
