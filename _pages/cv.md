@@ -30,6 +30,7 @@ Skills
   * LaTeX
   * Mathematica
   * Linux
+  * HTML
 * Languages
   * Persian: Mother-tongue
   * English: Professional proficiency
