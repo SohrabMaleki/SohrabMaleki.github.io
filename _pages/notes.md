@@ -10,7 +10,7 @@ Welcome to my archive of notes. Here, I explore various topics that pique my cur
 **WIP**: Work In Progress
 {: .notice}
 
-## Lecture Notes
+## My Notes
 
 Here, you can find my notes on topics I've learned and decided to write down my understandings.
 
