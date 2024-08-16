@@ -12,9 +12,9 @@ Welcome to my archive of notes. Here, I explore various topics that pique my cur
 
 ## Lecture Notes
 
-Here, you can find my lecture notes on topics I've learned and decided to write down my understandings.
+Here, you can find my notes on topics I've learned and decided to write down my understandings.
 
-* `WIP` [Here](https://sohrabmaleki.github.io/notes/LinAlg/) you can find my lecture note on <i>Linear Algebra</i> structure used in the study of <i>Quantum Mechanics</i>. 
+* `WIP` [Here](https://sohrabmaleki.github.io/notes/LinAlg/) you can find my note on <i>Linear Algebra</i> structure used in the study of <i>Quantum Mechanics</i>. 
 
 
 

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://sohrabmaleki.github.io/</loc>
+	<lastmod>2024-08-16T13:35:27+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://sohrabmaleki.github.io/cv/</loc>
+	<lastmod>2024-08-16T13:35:27+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://sohrabmaleki.github.io/publications/</loc>
+	<lastmod>2024-08-16T13:35:27+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://sohrabmaleki.github.io/notes/</loc>
+	<lastmod>2024-08-16T13:35:27+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://sohrabmaleki.github.io/notes/LinAlg/</loc>
+	<lastmod>2024-08-16T13:35:28+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://sohrabmaleki.github.io/notes/EMdipoles/</loc>
+	<lastmod>2024-08-16T13:35:28+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://sohrabmaleki.github.io/notes/ProbMech/</loc>
+	<lastmod>2024-08-16T13:35:28+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://sohrabmaleki.github.io/files/LinAlg.pdf</loc>
+	<lastmod>2024-08-16T13:35:29+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://sohrabmaleki.github.io/files/ElectromagneticDipoles.pdf</loc>
+	<lastmod>2024-08-16T13:35:29+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://sohrabmaleki.github.io/files/ProbClassicalMech-Eng.pdf</loc>
+	<lastmod>2024-08-16T13:35:29+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://sohrabmaleki.github.io/files/ProbClassicalMech-Fa.pdf</loc>
+	<lastmod>2024-08-16T13:35:29+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+</urlset>
