@@ -6,60 +6,12 @@ permalink: /notes/topic1/
 
 ## Description
 
-In this paper, I dive into the evolution of the probability distribution of a mechanical system. If you've studied classical mechanics, you probably know that once we nail down the initial conditions (like position and velocity), we can solve Hamilton's equations to get a clear, deterministic picture of the system at any future time $t$.
-
-But here's a twist: what if those initial conditions aren't set in stone? What if we're dealing with a <i>probability distribution</i> instead? This paper tackles that intriguing question and works out the <i>equation of motion</i> for the probability distribution itself. It's a pretty cool way to think about mechanics beyond the usual deterministic approach!
+This paper starts from classical probabilistic mechanics and formulates it analogous to quantum theory, finds the classical "Schrodinger's equation" and finds the quantization rule for transition to the Quantum Theory.
 
 ## [Download Paper in English](http://sohrabmaleki.github.io/files/From%20Probabilistic%20Mechanics%20to%20Quantum%20Theory.pdf)
 ## [Download Paper in Persian](http://sohrabmaleki.github.io/files/ProbClassicalMech-Fa.pdf)
 
-## Results
-The equation of motion for a general mechanical system is derived through this paper as
+## Confusions
+<b>Generality: </b> On page 10 of the paper, in the derivation of eqn. 24 from eqn. 23, it is mentioned that " Condition (23) holds true if $q(\alpha), p(\alpha)$ are solutions of the ordinary differential equations:". It shows that solutions of eqn 24 are just some specific solutions to eqn. 23 hence the further results are not general.
 
-$$\frac{\partial f}{\partial t} = \sum_{i=1}^{3N} -\frac{\partial f}{\partial q_i} \frac{\partial\mathcal{H}}{\partial p_i} + \frac{\partial f}{\partial p_i} \frac{\partial\mathcal{H}}{\partial q_i}$$
-
-This equation, as explained in paper, reduces for a one-dimensional particle to: 
-
-$$-\frac{\partial f}{\partial t}=\frac{y}{m}\frac{\partial f}{\partial x}+F(x)\frac{\partial f}{\partial y}$$
-
-where $y$ is momentum, $x$ is position and $F(x)=-\partial U/\partial x$ is the force field. 
-
-Stationary distributions must satisfy 
-
-$$ f(x,y)=\frac{1}{Z}\exp\left[-\frac{\mathcal{H}(x,y)}{k_B T}\right]\quad,\quad Z\equiv\iint\exp\left[-\frac{\mathcal{H}(x,y)}{k_B T}\right]\;dx\;dy $$
-
-which is highly similar to Boltzmann's distribution.
-
-## Numerical Solutions
-
-There are some numerical solutions to the given equations evaluated using Python.
-
-### Harmonic Oscillator
-
-Harmonic oscillator with momentum error much less than position error ($\sigma_p<<\sigma_x$):
-<video width="640" height="360" controls>
-  <source src="../../files/Harmonic.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-Harmonic oscillator stationary distribution (verifying the derived solution from paper):
-<video width="640" height="360" controls>
-  <source src="../../files/Harmonic - Stationary.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-### Free particle
-
-Free particle with gaussian initial distribution around zero (for position and momentum)
-<video width="640" height="360" controls>
-  <source src="../../files/Free Particle.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-### Periodic Potential
-
-Particle with gaussian initial distribution arounnd zero (for position and momentum) in a periodic potential $U(x)=\cos(x)$:
-<video width="640" height="360" controls>
-  <source src="../../files/Cosine.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<b>Seperable Solutions: </b> On page 16 of the paper, in the derivation of eqn. 52, it is assumed that $S=f(\alpha)+g(q,p)$. I have thought about it and its origin in QT is the Fourier transform in Heisenberg's work (the well-known $exp[i\omega t]$ term in stationary states). but couldn't get how it can be stated in the classical sense.
