@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: 'Probabilistic Mechanics'
-permalink: /notes/ProbMech/
+title: 'From Probabilistic Mechanics to Quantum Theory'
+permalink: /notes/topic1/
 ---
 
 ## Description
