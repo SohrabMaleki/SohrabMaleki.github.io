@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: 'From Probabilistic Mechanics to Quantum Theory'
+title: 'Quantum-Theoretical Re-Interpretation of Kinematic and Mechanical Relations'
 permalink: /notes/topic2/
 ---
-### By U. Klein
+### By W. Heisenberg
 
 ## Description
 
