@@ -10,7 +10,7 @@ In this paper, I dive into the evolution of the probability distribution of a me
 
 But here's a twist: what if those initial conditions aren't set in stone? What if we're dealing with a <i>probability distribution</i> instead? This paper tackles that intriguing question and works out the <i>equation of motion</i> for the probability distribution itself. It's a pretty cool way to think about mechanics beyond the usual deterministic approach!
 
-## [Download Paper in English](http://sohrabmaleki.github.io/files/ProbClassicalMech-Eng.pdf)
+## [Download Paper in English](http://sohrabmaleki.github.io/files/From%20Probabilistic%20Mechanics%20to%20Quantum%20Theory.pdf)
 ## [Download Paper in Persian](http://sohrabmaleki.github.io/files/ProbClassicalMech-Fa.pdf)
 
 ## Results
