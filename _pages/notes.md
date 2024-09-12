@@ -30,7 +30,7 @@ Here, you will find my notes on various topics within <i>Physics</i> that have d
 
 ## My Explorations Among Papers & References
 
-Here, you will find my comments on various topics (usually papers) that I've found them interesting, my confusions about them and also, sometimes, my own derivation/explanation to them. If you could resolve them, I'd be glad if you [Email](sohrabmaleki04@gmail.com) me. These are not my own works but the result of my curiosity and investigation for the history or the deeper understanding behind a specific topic.
+Here, you will find my comments on various topics (usually papers) that I've found them interesting, my confusions about them and also, sometimes, my own derivation/explanation to them. If you could resolve them, I'd be glad if you [Email](mailto:sohrabmaleki04@gmail.com) me. These are not my own works but the result of my curiosity and investigation for the history or the deeper understanding behind a specific topic.
 
 * [Here](https://sohrabmaleki.github.io/notes/topic1/) you can find the paper written by <i>U. Klein</i> which tries to formulate the classical probabilistic mechanics Similar to the Quantum Theory and find the "Quantization Rule". It follows the Einstein's perspective on the Quantum Theory as an ensemble theory. (you can also see my own derivation on probabilistic mechanics [here](https://sohrabmaleki.github.io/notes/ProbMech/) analogous to Fokker-Planck derivation)
 
