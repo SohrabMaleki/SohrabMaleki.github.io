@@ -24,11 +24,11 @@ $$-\frac{\partial f}{\partial t}=\frac{y}{m}\frac{\partial f}{\partial x}+F(x)\f
 
 where $y$ is momentum, $x$ is position and $F(x)=-\partial U/\partial x$ is the force field. 
 
-Stationary distributions must satisfy 
+Stationary distributions for 1-dimensional signle particle system must satisfy 
 
 $$ f(x,y)=\frac{1}{Z}\exp\left[-\frac{\mathcal{H}(x,y)}{k_B T}\right]\quad,\quad Z\equiv\iint\exp\left[-\frac{\mathcal{H}(x,y)}{k_B T}\right]\;dx\;dy $$
 
-which is highly similar to Boltzmann's distribution.
+which is highly similar to Boltzmann's distribution. It would be great if it's generaliy get to be expanded to less restricted cases.
 
 ## Numerical Solutions
 
