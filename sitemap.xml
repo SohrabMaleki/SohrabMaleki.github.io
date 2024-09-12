@@ -3,57 +3,82 @@
 		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>https://sohrabmaleki.github.io/</loc>
-	<lastmod>2024-08-16T13:35:27+01:00</lastmod>
+	<lastmod>2024-09-13T02:11:41+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://sohrabmaleki.github.io/cv/</loc>
-	<lastmod>2024-08-16T13:35:27+01:00</lastmod>
+	<lastmod>2024-09-13T02:11:41+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://sohrabmaleki.github.io/publications/</loc>
-	<lastmod>2024-08-16T13:35:27+01:00</lastmod>
+	<lastmod>2024-09-13T02:11:41+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://sohrabmaleki.github.io/notes/</loc>
-	<lastmod>2024-08-16T13:35:27+01:00</lastmod>
+	<lastmod>2024-09-13T02:11:41+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://sohrabmaleki.github.io/notes/LinAlg/</loc>
-	<lastmod>2024-08-16T13:35:28+01:00</lastmod>
+	<lastmod>2024-09-13T02:11:43+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://sohrabmaleki.github.io/notes/EMdipoles/</loc>
-	<lastmod>2024-08-16T13:35:28+01:00</lastmod>
+	<lastmod>2024-09-13T02:11:43+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://sohrabmaleki.github.io/notes/ProbMech/</loc>
-	<lastmod>2024-08-16T13:35:28+01:00</lastmod>
+	<lastmod>2024-09-13T02:11:43+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://sohrabmaleki.github.io/notes/topic1/</loc>
+	<lastmod>2024-09-13T02:11:43+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://sohrabmaleki.github.io/notes/topic2/</loc>
+	<lastmod>2024-09-13T02:11:43+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://sohrabmaleki.github.io/files/LinAlg.pdf</loc>
-	<lastmod>2024-08-16T13:35:29+01:00</lastmod>
+	<lastmod>2024-09-13T02:11:43+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://sohrabmaleki.github.io/files/ElectromagneticDipoles.pdf</loc>
-	<lastmod>2024-08-16T13:35:29+01:00</lastmod>
+	<lastmod>2024-09-13T02:11:43+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://sohrabmaleki.github.io/files/ProbClassicalMech-Eng.pdf</loc>
-	<lastmod>2024-08-16T13:35:29+01:00</lastmod>
+	<lastmod>2024-09-13T02:11:43+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://sohrabmaleki.github.io/files/ProbClassicalMech-Fa.pdf</loc>
-	<lastmod>2024-08-16T13:35:29+01:00</lastmod>
+	<lastmod>2024-09-13T02:11:43+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://sohrabmaleki.github.io/files/From%20Probabilistic%20Mechanics%20to%20Quantum%20Theory.pdf</loc>
+	<lastmod>2024-09-13T02:11:44+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://sohrabmaleki.github.io/files/Heisenberg&apos;s%20Paper.pdf</loc>
+	<lastmod>2024-09-13T02:11:44+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://sohrabmaleki.github.io/files/x1-011.pdf</loc>
+	<lastmod>2024-09-13T02:11:44+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 </urlset>
