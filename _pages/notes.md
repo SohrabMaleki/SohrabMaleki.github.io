@@ -36,4 +36,4 @@ Here, you will find my comments on various topics (usually papers) that I've fou
 
 * [Here](https://sohrabmaleki.github.io/notes/topic2/) you can find the famous paper written by <i>W. Heisenberg</i> which is believed to be the birth of Quantum Mechanics. There is also a paper written by <i>[M. Khorrami](https://mamwad.org)</i> explaining this paper with modern notation which I've found interesting.
 
-* [Here](https://sohrabmaleki.github.io/notes/topic3/) you can find the story of the black body radiation which has led to the first steps in Quantum Theory; especially focusing on the Planck's approaches to the problem.
+* [Here](https://sohrabmaleki.github.io/notes/topic3/) you can find the story of the black body radiation which has led to the first steps in Quantum Theory; especially focusing on the Planck's approaches and line of thouhts to the problem. This is presented by myself in "Read The Greats" sessions at Sharif University of Technology.

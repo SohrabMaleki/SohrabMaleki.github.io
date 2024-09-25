@@ -11,7 +11,8 @@ This couple of papers are the original papers written by M. Planck in 1900 conce
 
 ## [Download Original Paper in English](http://sohrabmaleki.github.io/files/planck1900.pdf)
 
-Also, I have presented the story and Planck's line of thoughts in sessions dedicated to review classic papers in Sharif University of Technology. Here's my note on this:
+Also, Here's my note on this:
 
 ## [Download my Explanation in Persian](http://sohrabmaleki.github.io/files/topic3.pdf)
 
+This note is written for "Read The Greats" sessions reviewing classic papers in september 24, 2024 at Sharif University of Technology, Physics department.
