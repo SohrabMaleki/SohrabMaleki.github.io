@@ -13,6 +13,6 @@ This couple of papers are the original papers written by M. Planck in 1900 conce
 
 Also, Here's my note on this:
 
-## [Download my Explanation in Persian](http://sohrabmaleki.github.io/files/topic3.pdf)
+## [Download my Notes](http://sohrabmaleki.github.io/files/topic3.pdf)
 
 This note is written for "Read The Greats" sessions reviewing classic papers in september 24, 2024 at Sharif University of Technology, Physics department.
