@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: 'On the Theory of the Energy Distribution Law of the Normal Spectrum'
-permalink: /notes/topic2/
+permalink: /notes/topic3/
 ---
 ### By M. Planck
 
