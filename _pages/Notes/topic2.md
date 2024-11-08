@@ -11,5 +11,5 @@ This paper is the original paper written by W. Heisenberg in July 1925 which is 
 
 ## [Download Paper in English](http://sohrabmaleki.github.io/files/Heisenberg's%20Paper.pdf)
 ## [Download M. Khorrami's Explanation in Persian](http://sohrabmaleki.github.io/files/x1-011.pdf)
-## `WIP` [Download my Explanation in Persian]()
+<!-- ## `WIP` [Download my Explanation in Persian]() --> 
 
