@@ -26,6 +26,7 @@ Here, you will find my notes on various topics within <i>Physics</i> that have d
 
 * [Here](https://sohrabmaleki.github.io/notes/ProbMech/) you can find my discussion on <i>"Probabilistic Classical Mechanics"</i> and my approach to undeterministic initial condition for a classical system.
 
+* [Here](https://sohrabmaleki.github.io/notes/LvN2Sch/) you can find my attempt to <i>build</i> the Schrodinger equation starting from Liouville-von Neumann (LvN) equation.
 
 
 ## My Explorations Among Papers & References
