@@ -4,8 +4,6 @@ title: "My Talks"
 permalink: /talks/
 ---
 
-AAAaaa
-
 Welcome to my archive of talks. Here, I've shared various talks and presentations that I've done in my academic journey. Most of them are things I've learned and there wasn't a proper course teaching them to people so I'd decided to share them with others myself. You can find their poster and the content that I prepared (record, notes, presentation, etc.).
 
 
