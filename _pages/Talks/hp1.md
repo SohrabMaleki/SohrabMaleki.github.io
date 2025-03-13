@@ -11,7 +11,7 @@ In the late 19th and early 20th centuries, discrepancies were observed between e
 <img src="../../images/hp1-poster.jpg" alt="Alt text" width="600" />
 
 
-## [Download Presentation (English)](http://sohrabmaleki.github.io/files/From%20Probabilistic%20Mechanics%20to%20Quantum%20Theory.pdf)
+## [Download Presentation (English)](../../files/hp1-presentation.pdf)
 
 ## Sources
 
