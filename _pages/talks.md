@@ -10,7 +10,7 @@ Welcome to my archive of talks. Here, I've shared various talks and presentation
 
 ## Historical Papers
 
-<i>Historical Papers</i> is a study circle that in each session (almost monthly), the corresponding instructor presents a significant (usually almost groundbreaking) |"historical'' paper in physics. It is held under Quanta Study Circles at SUT.
+<i>Historical Papers</i> is a study circle that in each session (almost monthly), the corresponding instructor presents a significant (usually almost groundbreaking)"historical'' paper in physics. It is held under Quanta Study Circles at SUT.
 
 * [Here](https://sohrabmaleki.github.io/talks/hp1/) you can find my representation about The Black Body Radiation (BBR) problem focusing on Max Planck's paper in 1900.
 
