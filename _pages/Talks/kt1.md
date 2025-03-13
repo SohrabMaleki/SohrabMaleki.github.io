@@ -19,4 +19,5 @@ In this lecture, I investigate the elementary kinetic theory. I obtain the so-ca
 ## Sources
 
 [1] D. Tong, Lectures on Kinetic Theory.
+
 [2] V. Karimipour, Lecture Notes on Thermodynamics and Statistical Physics.
