@@ -13,8 +13,8 @@ In the late 19th and early 20th centuries, discrepancies were observed between e
 
 ## [Presentation pdf (English)](../../files/hp1-presentation.pdf)
 
-# [Planck, 1900 - On an Improvement of Wien's Equation for the Spectrum](../../files/planck1900-1.pdf)
-# [Planck, 1900 - On the Theory of the Energy Distribution Law of the Normal Spectrum](../../files/planck1900-2.pdf)
+### [Planck, 1900 - On an Improvement of Wien's Equation for the Spectrum](../../files/planck1900-1.pdf)
+### [Planck, 1900 - On the Theory of the Energy Distribution Law of the Normal Spectrum](../../files/planck1900-2.pdf)
 
 ## Sources
 
