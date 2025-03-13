@@ -1,84 +1,97 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-		<!--	created with www.mysitemapgenerator.com	-->
-		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-	<loc>https://sohrabmaleki.github.io/</loc>
-	<lastmod>2024-09-13T02:11:41+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://sohrabmaleki.github.io/</loc>
+  <lastmod>2025-03-13T20:40:57+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-	<loc>https://sohrabmaleki.github.io/cv/</loc>
-	<lastmod>2024-09-13T02:11:41+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://sohrabmaleki.github.io/cv/</loc>
+  <lastmod>2025-03-13T20:40:58+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://sohrabmaleki.github.io/publications/</loc>
-	<lastmod>2024-09-13T02:11:41+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://sohrabmaleki.github.io/publications/</loc>
+  <lastmod>2025-03-13T20:40:57+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://sohrabmaleki.github.io/notes/</loc>
-	<lastmod>2024-09-13T02:11:41+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://sohrabmaleki.github.io/notes/</loc>
+  <lastmod>2025-03-13T20:40:58+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://sohrabmaleki.github.io/notes/LinAlg/</loc>
-	<lastmod>2024-09-13T02:11:43+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://sohrabmaleki.github.io/talks/</loc>
+  <lastmod>2025-03-13T20:40:58+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://sohrabmaleki.github.io/notes/EMdipoles/</loc>
-	<lastmod>2024-09-13T02:11:43+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://sohrabmaleki.github.io/notes/LinAlg/</loc>
+  <lastmod>2025-03-13T20:40:58+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://sohrabmaleki.github.io/notes/ProbMech/</loc>
-	<lastmod>2024-09-13T02:11:43+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://sohrabmaleki.github.io/notes/EMdipoles/</loc>
+  <lastmod>2025-03-13T20:40:57+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://sohrabmaleki.github.io/notes/topic1/</loc>
-	<lastmod>2024-09-13T02:11:43+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://sohrabmaleki.github.io/notes/ProbMech/</loc>
+  <lastmod>2025-03-13T20:40:58+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://sohrabmaleki.github.io/notes/topic2/</loc>
-	<lastmod>2024-09-13T02:11:43+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://sohrabmaleki.github.io/notes/LvN2Sch/</loc>
+  <lastmod>2025-03-13T20:40:58+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://sohrabmaleki.github.io/files/LinAlg.pdf</loc>
-	<lastmod>2024-09-13T02:11:43+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://sohrabmaleki.github.io/notes/topic1/</loc>
+  <lastmod>2025-03-13T20:40:57+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://sohrabmaleki.github.io/files/ElectromagneticDipoles.pdf</loc>
-	<lastmod>2024-09-13T02:11:43+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://sohrabmaleki.github.io/notes/topic2/</loc>
+  <lastmod>2025-03-13T20:40:58+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://sohrabmaleki.github.io/files/ProbClassicalMech-Eng.pdf</loc>
-	<lastmod>2024-09-13T02:11:43+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://sohrabmaleki.github.io/notes/topic3/</loc>
+  <lastmod>2025-03-13T20:40:58+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://sohrabmaleki.github.io/files/ProbClassicalMech-Fa.pdf</loc>
-	<lastmod>2024-09-13T02:11:43+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://sohrabmaleki.github.io/talks/hp1/</loc>
+  <lastmod>2025-03-13T20:40:58+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://sohrabmaleki.github.io/files/From%20Probabilistic%20Mechanics%20to%20Quantum%20Theory.pdf</loc>
-	<lastmod>2024-09-13T02:11:44+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://sohrabmaleki.github.io/talks/kt1/</loc>
+  <lastmod>2025-03-13T20:40:58+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://sohrabmaleki.github.io/files/Heisenberg&apos;s%20Paper.pdf</loc>
-	<lastmod>2024-09-13T02:11:44+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://sohrabmaleki.github.io/files/hp1-presentation.pdf</loc>
+  <lastmod>2025-03-13T20:40:58+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://sohrabmaleki.github.io/files/x1-011.pdf</loc>
-	<lastmod>2024-09-13T02:11:44+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://sohrabmaleki.github.io/files/planck1900-1.pdf</loc>
+  <lastmod>2025-03-13T20:40:58+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
+<url>
+  <loc>https://sohrabmaleki.github.io/files/planck1900-2.pdf</loc>
+  <lastmod>2025-03-13T20:40:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>
