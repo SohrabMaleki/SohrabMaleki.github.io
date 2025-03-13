@@ -16,7 +16,11 @@ In the late 19th and early 20th centuries, discrepancies were observed between e
 ## Sources
 
 [1] Max Planck, On an Improvement of Wien’s Equation for the Spectrum. University of Berlin, 1900.
+
 [2] Max Planck, On the Theory of the Energy Distribution Law of the Normal Spectrum. University of Berlin, 1900.
+
 [3] Jagdish Mehra & Helmut Rechenberg, The Historical Development of Quantum Theory, Vol. 1, Pt. 1
+
 [4] Michael Fowler, Planck’s Route to the Black Body Radiation Formula and Quantization. University of Virginia.
+
 [5] Michael Fowler, Black Body Radiation. University of Virginia.

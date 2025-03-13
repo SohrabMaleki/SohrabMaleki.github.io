@@ -35,7 +35,7 @@ Skills
   * Persian: Mother-tongue
   * English: Professional proficiency
   * French: Basic knowledge
-  * Arabic: Basic knowledge
+  * Deutch: Basic knowledge
 
 Awards and Honors
 =====
