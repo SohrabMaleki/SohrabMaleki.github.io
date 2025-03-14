@@ -21,7 +21,7 @@ Work experience
   
 Skills
 ======
-* Programming
+* Computational
   * Python
   * C
   * C++
