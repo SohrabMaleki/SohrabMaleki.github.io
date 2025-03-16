@@ -13,7 +13,7 @@ In this lecture, I investigate the elementary kinetic theory. I obtain the so-ca
 </div>
 
 
-## [Presentation Board [pdf]]("../../files/kt1.pdf")
+## [Presentation Board [pdf]](../../files/kt1.pdf)
 
 
 ## Sources
