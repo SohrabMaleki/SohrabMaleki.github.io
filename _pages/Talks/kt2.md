@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: 'Kinetic Theory - Session 01'
-permalink: /talks/kt1/
+title: 'Kinetic Theory - Session 02'
+permalink: /talks/kt2/
 ---
 
 ## Description
