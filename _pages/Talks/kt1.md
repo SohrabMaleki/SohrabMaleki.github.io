@@ -13,11 +13,14 @@ In this lecture, I investigate the elementary kinetic theory. I obtain the so-ca
 </div>
 
 
-## [Presentation Board [pdf]]()
+## [Presentation Board [pdf]](../../files/kt1.pdf)
 
 
 ## Sources
 
-[1] D. Tong, Lectures on Kinetic Theory.
+[1] R. B. Singh, Thermal and Statistical Physics
 
-[2] V. Karimipour, Lecture Notes on Thermodynamics and Statistical Physics.
+[2] D. Tong, Lectures on Kinetic Theory.
+
+[3] V. Karimipour, Lecture Notes on Thermodynamics and Statistical Physics.
+
