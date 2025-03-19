@@ -20,4 +20,4 @@ Welcome to my archive of talks. Here, I've shared various talks and presentation
 <i>Kinetic Theory</i> is a study circle that has covered topics on the Kinetic Theory in an intensive series of online sessions presented by me.
 * [Here](https://sohrabmaleki.github.io/talks/kt1/) you can find the contents of 1'st session covering Maxwell-Boltzmann distribution and elementary kinetic theory.
 * [Here](https://sohrabmaleki.github.io/talks/kt2/) you can find the contents of 2'nd session covering the Transport Phenomena which completes the elementary kinetic theory.
-
+* [Here](https://sohrabmaleki.github.io/talks/kt2/) you can find the contents of 3'rd session reviewing classical mechanics and thermodynamics, two preleminaries to begin the advanced kinetic theory.
