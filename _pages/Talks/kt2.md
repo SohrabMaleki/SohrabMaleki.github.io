@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: 'Kinetic Theory - Session 02'
+title: 'Kinetic Theory - Session 02 - 19 March 2025'
 permalink: /talks/kt2/
 ---
-
 ## Description
-In this lecture, I investigate the Transport Phenomena. I begin with the Random Walk problem and consequently express the diffusion, fomulate the viscosity and finally, thermal conductivity using elementary kinetic theory methods.
+In this lecture, I investigate the Transport Phenomena. I begin with the mean free path; Then I turn to the Random Walk problem and consequently express the diffusion, fomulate the viscosity and finally, thermal conductivity using elementary kinetic theory methods. This session was the end of "Elementary Kinetic Theory" topic.
 
 ## Poster
 <div style="text-align: center;">
@@ -13,7 +12,7 @@ In this lecture, I investigate the Transport Phenomena. I begin with the Random 
 </div>
 
 
-## [Presentation Board [pdf]]()
+## [Presentation Board [pdf]](../../files/kt2.pdf)
 
 
 ## Sources

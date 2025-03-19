@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: 'Kinetic Theory - Session 01'
+title: 'Kinetic Theory - Session 01 - 16 March 2025'
 permalink: /talks/kt1/
 ---
 
 ## Description
-In this lecture, I investigate the elementary kinetic theory. I obtain the so-called Maxwell-Boltzmann distribution and then, delve into calculating cool properties of matter assuming thermal equilibrium.
+In this lecture, I start the investigating elementary kinetic theory. I obtain the so-called Maxwell-Boltzmann distribution and then, delve into calculating cool properties of matter assuming thermal equilibrium.
 
 ## Poster
 <div style="text-align: center;">
